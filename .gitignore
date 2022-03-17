@@ -1,0 +1,12 @@
+# Ignore build directory 
+build/
+out/
+bin/
+
+# Ignore config directory
+*.vscode
+
+# Ignore secondary latex files
+*.log
+*.aux
+*.gz
